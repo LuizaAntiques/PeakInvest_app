@@ -10,19 +10,16 @@ namespace Backend.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            try {
-                var list = new List<KeyValuePair<int, string>>();
+            var list = new List<KeyValuePair<int, string>>();
 
-                list.Add(new KeyValuePair<int, string>(1, "João"));
-                list.Add(new KeyValuePair<int, string>(2, "Maria"));
-                list.Add(new KeyValuePair<int, string>(3, "Ana"));
+            list.Add(new KeyValuePair<int, string>(1, "João"));
+            list.Add(new KeyValuePair<int, string>(2, "Maria"));
+            list.Add(new KeyValuePair<int, string>(3, "Ana"));
 
-                var result = list.Find(iten => iten.Key == id);
+            var result = list.Find(iten => iten.Key == id);
+            Console.Write(result);
 
-                return Ok(result.Value);
-            } catch (Exception ex) {
-                return BadRequest($"Erro: {ex.Message}");
-            }
+            return Ok(result);
         }
     }
 }

@@ -8,7 +8,7 @@ import { Register } from '../models/register';
 })
 export class RegisterService {
 
-  baseUrl = environment.baseUrl + '/register';
+  baseUrl = environment.baseUrl + '/cadastro';
 constructor(private http: HttpClient) {}
 
 post(values: Register) {
