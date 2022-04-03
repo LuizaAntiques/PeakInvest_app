@@ -2,6 +2,10 @@
     background-color: #F5F2E1;
 }
 
+.nav-logo {
+    width: 200px;
+}
+
 .nav-position {
     margin-left: auto;
 }
