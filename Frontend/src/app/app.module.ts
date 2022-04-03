@@ -7,6 +7,8 @@ import { ConsultComponent } from './components/consult/consult.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { RegisterComponent } from './components/register/register.component';
+import { TooltipModule } from 'ngx-bootstrap/tooltip';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,10 @@ import { RegisterComponent } from './components/register/register.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule,
+    TooltipModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]

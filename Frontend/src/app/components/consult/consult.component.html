@@ -1,14 +1,15 @@
 <div class="container">
   <div class="container-fluid my-5 w-50">
-    <form class="d-flex">
+    <form class="d-flex" [formGroup]="consultForm">
       <input
         class="form-control me-2"
         type="number"
         min="1" decoration="none"
         placeholder="Digite o id de um usuário. Ex. (1)"
         aria-label="Search"
+        formControlName="userId"
       >
-      <button class="btn btn-search" type="submit">Buscar</button>
+      <button class="btn btn-search" (click)="getUser()" type="submit">Buscar</button>
     </form>
   </div>
 </div>
