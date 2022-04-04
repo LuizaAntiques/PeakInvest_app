@@ -208,19 +208,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pablo\\.nuget\\packages\\": {}
+    "/home/luizaantks/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\Test_PeakInvest\\Backend\\Backend.csproj",
+      "projectUniqueName": "/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\pablo\\Desktop\\Test_PeakInvest\\Backend\\Backend.csproj",
-      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\Desktop\\Test_PeakInvest\\Backend\\obj\\",
+      "projectPath": "/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/Backend.csproj",
+      "packagesPath": "/home/luizaantks/.nuget/packages/",
+      "outputPath": "/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/luizaantks/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -267,7 +267,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/158/sdk/6.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

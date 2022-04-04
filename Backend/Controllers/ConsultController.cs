@@ -1,4 +1,3 @@
-using Backend.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Backend.Controllers
@@ -16,8 +15,7 @@ namespace Backend.Controllers
             list.Add(new KeyValuePair<int, string>(2, "Maria"));
             list.Add(new KeyValuePair<int, string>(3, "Ana"));
 
-            var result = list.Find(iten => iten.Key == id);
-            Console.Write(result);
+            var result = list.Find(item => item.Key == id);
 
             return Ok(result);
         }

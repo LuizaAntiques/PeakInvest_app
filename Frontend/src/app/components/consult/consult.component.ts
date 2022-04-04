@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { ConsultService } from 'src/app/services/consult.service';
+import { ConsultService } from '../../services/consult.service';
 
 @Component({
   selector: 'app-consult',
@@ -9,10 +9,7 @@ import { ConsultService } from 'src/app/services/consult.service';
 })
 export class ConsultComponent implements OnInit {
   public consultForm!: FormGroup;
-  public name = {
-    key: 0,
-    value: '',
-  };
+  public name: string = '';
 
   constructor(private fb: FormBuilder,
               private consultService: ConsultService) {
@@ -30,14 +27,9 @@ export class ConsultComponent implements OnInit {
 
   getUser() {
     var id = this.consultForm.value.userId;
-    var response;
-    this.consultService.get(id).subscribe( res => response = res.value, err => console.log(err.message));
-//    console.log(this.consultForm.value.userId);
-//    console.log(typeof id);
-//    console.log(this.consultService.getById(id).subscribe(
-//      (res) => { this.name = res },
-//      (erro: any) => { console.error(erro) }));
-    console.log(response);
+    this.consultService.get(id)
+    .subscribe( res => this.name = res.value, err => console.log(err.message));
+    console.log(this.name);
    }
 
 }

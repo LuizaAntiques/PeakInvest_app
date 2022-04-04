@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "r19Cx688ixP8ObobU+ZYIRCTZlYgmzIFFryyFw5pbnob8428QHkebUIyGCz7up3ytOLqs5IRMCNDt2v1RNa/gg==",
+  "dgSpecHash": "OxyYDe8de4mHy8Bb1/7c+lVk9mSq42gxCm/u4WXd6tslTvRrBDVfTUvzvO38hsj4m8QSII+IQmEPAuJqgDBitw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pablo\\Desktop\\Test_PeakInvest\\Backend\\Backend.csproj",
+  "projectFilePath": "/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/Backend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/luizaantks/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/luizaantks/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/luizaantks/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/luizaantks/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/luizaantks/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/luizaantks/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }

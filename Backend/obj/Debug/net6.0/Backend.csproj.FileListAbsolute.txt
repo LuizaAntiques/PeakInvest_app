@@ -1,27 +1,54 @@
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\appsettings.json
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Backend.exe
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Backend.deps.json
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Backend.runtimeconfig.json
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Backend.dll
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Backend.pdb
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\scopedcss\bundle\Backend.styles.css
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.csproj.CopyComplete
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.dll
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\refint\Backend.dll
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.pdb
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
-C:\Users\pablo\Desktop\Test_PeakInvest\Backend\obj\Debug\net6.0\ref\Backend.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/appsettings.json
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Backend.exe
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Backend.deps.json
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Backend.runtimeconfig.json
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Backend.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Backend.pdb
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.csproj.AssemblyReference.cache
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.AssemblyInfoInputs.cache
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.AssemblyInfo.cs
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.csproj.CoreCompileInputs.cache
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/scopedcss/bundle/Backend.styles.css
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.csproj.CopyComplete
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/refint/Backend.dll
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.pdb
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/Backend.genruntimeconfig.cache
+C:/Users/pablo/Desktop/Test_PeakInvest/Backend/obj/Debug/net6.0/ref/Backend.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.pdb
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/appsettings.Development.json
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/appsettings.json
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Backend
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Backend.deps.json
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Backend.runtimeconfig.json
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Backend.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Backend.pdb
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.csproj.AssemblyReference.cache
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.AssemblyInfoInputs.cache
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.AssemblyInfo.cs
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.csproj.CoreCompileInputs.cache
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.MvcApplicationPartsAssemblyInfo.cs
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/staticwebassets.build.json
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/staticwebassets.development.json
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/scopedcss/bundle/Backend.styles.css
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.csproj.CopyComplete
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/refint/Backend.dll
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/Backend.genruntimeconfig.cache
+/home/luizaantks/Projetos Pessoais/test-peakInvest2/PeakInvest_app/Backend/obj/Debug/net6.0/ref/Backend.dll

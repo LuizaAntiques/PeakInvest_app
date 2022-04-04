@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { RegisterService } from 'src/app/services/register.service';
+import { RegisterService } from '../../services/register.service';
 
 @Component({
   selector: 'app-register',
@@ -9,7 +9,7 @@ import { RegisterService } from 'src/app/services/register.service';
 })
 export class RegisterComponent implements OnInit {
   public registerForm!: FormGroup;
-  public result?: any;
+  public result: any = '';
 
   constructor(private fb: FormBuilder,
               private registerService: RegisterService) {
@@ -32,7 +32,6 @@ export class RegisterComponent implements OnInit {
       (erro: any) => { console.error(erro) });
 
       return console.log(this.result);
-      
   }
 
 }
