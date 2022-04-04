@@ -9,7 +9,7 @@ import { RegisterService } from '../../services/register.service';
 })
 export class RegisterComponent implements OnInit {
   public registerForm!: FormGroup;
-  public result: any = '';
+  public result: string = '';
 
   constructor(private fb: FormBuilder,
               private registerService: RegisterService) {
@@ -27,11 +27,16 @@ export class RegisterComponent implements OnInit {
   }
 
   getForm() {
-    this.registerService.post(this.registerForm.value).subscribe(
-      (res) => { this.result = res },
+    const payload = {
+      value: this.registerForm.value.value.replace(',', '.'),
+      instalments: this.registerForm.value.instalments,
+    }
+
+    this.registerService.post(payload).subscribe(
+      (res) => {
+        const response  = parseFloat(res).toFixed(2);
+        this.result = `R$ ${response.replace('.', ',')}`;
+      },
       (erro: any) => { console.error(erro) });
-
-      return console.log(this.result);
   }
-
 }

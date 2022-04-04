@@ -1,0 +1,13 @@
+.btn-search {
+  background-color: #1A3151;
+  border-radius: 40px;
+  color: white;
+  padding: 10px 20px;
+}
+
+.text-result {
+  color: gray;
+  flex-wrap: nowrap;
+  font-size: xx-large;
+  font-weight: bolder;
+}

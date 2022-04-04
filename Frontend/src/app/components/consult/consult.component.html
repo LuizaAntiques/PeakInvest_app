@@ -4,15 +4,18 @@
       <input
         class="form-control me-2"
         type="number"
+        mask="9990"
         min="1" decoration="none"
         placeholder="Digite o id de um usuário. Ex. (1)"
         aria-label="Search"
         formControlName="userId"
       >
       <button class="btn btn-search" (click)="getUser()" type="submit">Buscar</button>
-      <div class="container">
-        <p>{{name}}</p>
-      </div>
     </form>
+    <div class="container mt-4 m-auto">
+
+      <p class="text-result" *ngIf="name">{{name}}</p>
+      <p *ngIf="name==null">Nenhum usuário cadastrado nesse ID</p>
+    </div>
   </div>
 </div>
